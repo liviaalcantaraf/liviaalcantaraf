@@ -5,6 +5,7 @@
  - ⚡ I’m currently learning React.js
  - 📫 You can e-mail me: liviaalcantara.dev@gmail.com
  - 😄 Pronouns: She/Her
+ - 💻 Check out my website: liviadev.com
  
 
  
