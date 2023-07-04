@@ -1,11 +1,6 @@
 ## Hey! 👋
 
 
- - 🔭 I’m currently working on Front End Development 
- - ⚡ I’m currently learning Phyton 3
- - 📫 You can e-mail me: liviaalcantara.dev@gmail.com
- - 😄 Pronouns: She/Her
- - 💻 Check out my website: liviadev.com
  
 
  
